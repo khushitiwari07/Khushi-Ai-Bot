@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+faster-whisper
+google-genai
+python-multipart
+python-dotenv
+pydantic-settings
+aiofiles
+torch
+torchaudio
